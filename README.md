@@ -83,9 +83,3 @@ The model performs exceptionally well in capturing performance trends:
 * Python 3.8+
 * `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
 
-### Installation & Run
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/student-performance-prediction.git](https://github.com/your-username/student-performance-prediction.git)
-   cd student-performance-prediction
